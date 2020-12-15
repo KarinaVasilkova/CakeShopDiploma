@@ -1,0 +1,18 @@
+C:\Study\Univer\Каріна\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Study\Univer\Каріна\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Study\Univer\Каріна\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Study\Univer\Каріна\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Study\Univer\Каріна\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Study\Univer\Каріна\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Study\Univer\Каріна\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Study\Univer\Каріна\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Study\Univer\Каріна\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\Arina's Own\Desktop\дипломна\web api\Models\obj\Debug\netcoreapp3.1\Models.pdb

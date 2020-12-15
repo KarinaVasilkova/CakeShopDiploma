@@ -1,0 +1,83 @@
+[
+  {
+    "idCake": "0001",
+    "nameCake": "Наполеон",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Смак торта «Наполеон» знайомий кожному з дитинства. Дійшло до того, що ім'я честолюбного французького лідера сьогодні асоціюється насамперед з солодощами, а не з історією злету і падіння першої Французької імперії. Торт Наполеон веде свою історію з такої глибини віків, що початок її зовсім втрачається. Очевидно лише, що називався він набагато простіше — mille-feuille, що буквально означає «тисяча шарів». Важко достеменно визначити, як народився кулінарний шедевр і як він став популярним.",
+    "priceCake": "150",
+    "weightCake": "1,5"
+  },
+  {
+    "idCake": "0002",
+    "nameCake": "Торт №2",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "200",
+    "weightCake": "2,0"
+  },
+  {
+    "idCake": "0003",
+    "nameCake": "Торт №3",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Шоколадний торт. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "300",
+    "weightCake": "2,5"
+  },
+  {
+    "idCake": "0004",
+    "nameCake": "Торт №4",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "100",
+    "weightCake": "2,5"
+  },
+  {
+    "idCake": "0005",
+    "nameCake": "Торт №5",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "200",
+    "weightCake": "1,5"
+  },
+  {
+    "idCake": "0006",
+    "nameCake": "Торт №6",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "300",
+    "weightCake": "1,7"
+  },
+  {
+    "idCake": "0007",
+    "nameCake": "Торт №7",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "150",
+    "weightCake": "1,9"
+  },
+  {
+    "idCake": "0008",
+    "nameCake": "Торт №8",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "150",
+    "weightCake": "2,2"
+  },
+  {
+    "idCake": "0009",
+    "nameCake": "Торт №9",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "150",
+    "weightCake": "2,5"
+  },
+ {
+    "idCake": "0010",
+    "nameCake": "Торт №10",
+    "imgURL": "https://sladkopuziki.kiev.ua/wp-content/uploads/11-12.jpg",
+    "aboutCake": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "priceCake": "150",
+    "weightCake": "1,4"
+  }
+]
+
